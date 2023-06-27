@@ -1,0 +1,1 @@
+variable 1 is {0} variable 2 is {1}
